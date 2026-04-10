@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Local runtime data
+*.sqlite3
+scrape-report.html
+gif-assets/
+
+# Build outputs
+build/
+dist/
+.pyinstaller/
+*.spec
+icon.iconset/
+
+# macOS
+.DS_Store
